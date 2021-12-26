@@ -1,0 +1,17 @@
+{
+  "name": "probability",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "Jelte Dirks <j.dirks@outlook.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.0.10",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.2"
+  }
+}
